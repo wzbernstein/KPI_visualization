@@ -19,7 +19,8 @@ circle {
 var w = {width},
     h = {height};
 
-var nodes = d3.range({ball_count}).map(function() { return {radius: Math.random() * {rad_fac} + {rad_min}}; }),
+var nodes = d3.range({ball_count}).map(function()
+                { return {radius: Math.random() * {rad_fac} + {rad_min}}; }),
     color = d3.scale.category10();
 
 var force = d3.layout.force()
