@@ -1,0 +1,16 @@
+id,label,timeset,node,weight 
+AUST,source,,AUST,1
+APT,source,,APT,1
+ADOT,source,,ADOT,1
+PBT,source,,PBT,1
+AUPT,source,,AUPT,1
+AUBT,source,,AUBT,1
+BLT,source,,BLT,1
+STT,source,,STT,1
+A,negative,,A,51.54
+AE,negative,,AE,0.77
+TE,negative,,TE,1.76
+UE,negative,,UE,34.44
+SeR,,,SeR,0.01
+BL,,,BL,17.44
+ST,negative,,ST,8.2

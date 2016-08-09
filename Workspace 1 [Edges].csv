@@ -1,0 +1,36 @@
+Source,Target,Type,id,label,timeset,weight,
+AUST,A,Directed,0, ,,2.7,2.7
+AUST,AE,Directed,1,negative,,1.1,-1.1
+AUST,UE,Directed,3, ,,3.85,3.85
+AUST,SeR,Directed,4, ,,4.17,4.17
+AUST,BL,Directed,5,negative,,0.07,-0.07
+AUST,ST,Directed,6,negative,,0.97,-0.97
+APT,A,Directed,7, ,,7.67,7.67
+APT,AE,Directed,8, ,,2.04,2.04
+APT,TE,Directed,9, ,,1.4,1.4
+APT,UE,Directed,10, ,,5.52,5.52
+APT,SeR,Directed,11, ,,4.94,4.94
+APT,BL,Directed,12, ,,0.14,0.14
+APT,ST,Directed,13, ,,1.79,1.79
+ADOT,A,Directed,14, ,,2.7,2.7
+ADOT,AE,Directed,15,negative,,1.1,-1.1
+ADOT,TE,Directed,16, ,,6.25,6.25
+ADOT,UE,Directed,17, ,,3.85,3.85
+ADOT,BL,Directed,19,negative,,0.07,-0.07
+ADOT,ST,Directed,20,negative,,0.97,-0.97
+PBT,A,Directed,21, ,,2.7,2.7
+PBT,AE,Directed,22, ,,2.7,2.7
+PBT,BL,Directed,26,negative,,0.07,-0.07
+PBT,ST,Directed,27,negative,,0.97,-0.97
+AUPT,SeR,Directed,32, ,,2.56,2.56
+AUBT,AE,Directed,36,negative,,3.7,-3.7
+AUBT,TE,Directed,37, ,,0,0
+AUBT,UE,Directed,38, ,,3.85,3.85
+BLT,A,Directed,42, ,,2.7,2.7
+BLT,AE,Directed,43, ,,2.7,2.7
+BLT,BL,Directed,47, ,,2.7,2.7
+BLT,ST,Directed,48,negative,,0.97,-0.97
+STT,A,Directed,49, ,,2.7,2.7
+STT,AE,Directed,50, ,,2.7,2.7
+STT,BL,Directed,54,negative,,0.07,-0.07
+STT,ST,Directed,55, ,,2.7,2.7
